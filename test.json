@@ -1,0 +1,13 @@
+{
+    "login_time": 100,
+    "login_time_refresh": 10,
+
+    "home_time": 200,
+    "home_time_refresh": 20,
+
+    "report_time": 50,
+    "report_time_refresh": 5,
+
+    "name": "kyle",
+    "location": "shenzhen"
+}

@@ -1,0 +1,22 @@
+{
+    "name" : "xxx",
+    "password" : "xxx",
+    "location" : "shenzhen",
+    "locationDesc" : "e.g. shenzhen beijing shanghai ... any plain text is ok",
+    "apiUrl" : "xxx",
+
+    "enableCron" : false,
+    "enableCron_desc" : "if enableCron=false, just run for 1 time",
+    "cron" : "*/10 * * * *",
+    "cron_example0" : "every 10 seconds = */10 * * * * *",
+    "cron_example1" : "every 10 minutes =   */10 * * * *",
+    "cron_example2" : "0 0 10,15 * * ?",
+
+    "homeUrl" : "xxx",
+    "reportUrl" : "xxx",
+    "openPageTimeout" : 3600,
+    "openPageTimeout_desc" : "3600 seconds = 1 hour",
+    "openBrowser" : true,
+    "openBrowser_desc" : "open browser for you to monitor"
+   
+}
